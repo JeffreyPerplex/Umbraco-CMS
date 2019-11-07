@@ -62,6 +62,7 @@ Great question! The short version goes like this:
   
   * **Switch to the correct branch** - switch to the v8-dev branch
   * **Build** - build your fork of Umbraco locally as described in [building Umbraco from source code](BUILD.md)
+  * **Open the solution and build** - The solution can be found in [/src/umbraco.sln](#building-umbraco-from-source-code). After opening it in Visual Studio, you can build it.
   * **Change** - make your changes, experiment, have fun, explore and learn, and don't be afraid. We welcome all contributions and will [happily give feedback](#questions)
   * **Commit** - done? Yay! 🎉 **Important:** create a new branch now and name it after the issue you're fixing, we usually follow the format: `temp-12345`. This means it's a temporary branch for the particular issue you're working on, in this case `12345`. When you have a branch, commit your changes. Don't commit to `v8/dev`, create a new branch first.
   * **Push** - great, now you can push the changes up to your fork on GitHub
